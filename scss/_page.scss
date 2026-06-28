@@ -285,3 +285,9 @@
         min-height: 122px;
     }
 }
+
+.links:focus-visible,
+.column-link:focus-visible {
+  outline: 3px solid #F74780;
+  outline-offset: 4px;
+}
